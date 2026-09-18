@@ -1,0 +1,8 @@
+{
+  "name": "Remix Creator Toolkit",
+  "description": "Streamline your content creation with AI-powered tools for titles, descriptions, hashtags, and viral video ideas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
